@@ -1,0 +1,10 @@
+<?xml version="1.0" ?><films>
+    <film>
+        <director>John McTiernan</director>
+        <title>Szklana Pułapka</title>
+    </film>
+    <film>
+        <director>Steven Spilberg</director>
+        <title>Szczęki</title>
+    </film>
+</films>
